@@ -1,7 +1,7 @@
 # week9-honeypot
 # Project 9 - Honeypot
 
-Time spent: **3** hours spent in total
+Time spent: **6** hours spent in total
 
 1. Which Honeypot(s) you deployed
   - Ubuntu - Dionaea with HTTP

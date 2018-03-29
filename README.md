@@ -18,6 +18,6 @@ Time spent: **3** hours spent in total
 4. Any unresolved questions raised by the data collected
   - How to get more information on what they are trying to do besides scanning?
 5. JSON
-  - [a link](https://github.com/et1n/Honeypot/blob/master/session.json)
+  - [a link](https://github.com/paolorama/week9-honeypot/blob/master/session.json)
 6. GIF
   - GIF Walkthrough: <img src='week9.1.gif' />

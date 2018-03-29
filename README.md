@@ -10,11 +10,20 @@ Time spent: **6** hours spent in total
   - Ubuntu - Dionaea with HTTP
     - Over 1000 IPs accessing different ports.
 	- Location of the IPs are from all around the world.
-    - CINS Found some Active Thereat Inteillegence Poor Reputation IPs
-	- SCAN Sipvicious User-Agent Detected (friendly-scanner)
-	- DROP Dshield block listed source group
-	- VOIP Modified Sipvicious Asterisk PBX User-Agent
-	- POLCY suspicious inbound to MSSQL port 1433
+    - TOP 5 Attacker IPs:
+      -  185.51.228.245 (564 attacks)
+      -  191.101.167.7 (223 attacks)
+      -   5.188.11.37 (139 attacks)
+      -  221.229.166.125 (119 attacks)
+      -  1.176.222.170 (86 attacks)
+     
+     -
+TOP 5 Attacked ports: 5060
+                      23
+		      3306
+		      445
+		      8291
+
 4. Any unresolved questions raised by the data collected
   - How to get more information on what they are trying to do besides scanning?
 5. JSON
